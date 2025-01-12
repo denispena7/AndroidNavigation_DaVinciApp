@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>ç
+    <string name="activity_name">DaVinci App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo Da Vinci App</string>
+    <string name="nav_header_subtitle">Da Vinci Info</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- DESCRIPCIÓN DE IMÁGENES -->
+    <string name="descripcion_imgInicio">Leonardo DaVinci</string>
+    <string name="descripcion_imgPintor">Hombre de Vitruvio</string>
+    <string name="descripcion_imgEscultura">La virgen con el niño sonriente</string>
+    <string name="descripcion_imgCiencia">Estudios Científicos</string>
+    <string name="descripcion_imgInventos">Inventos</string>
+
+    <!-- CABECERAS -->
+    <string name="lbl_Inicio">Bienvenido a DaVinciApp</string>
+    <string name="lbl_Pintor">Hombre de Vitruvio</string>
+    <string name="lbl_Escultura">La virgen con el niño sonriente</string>
+    <string name="lbl_Cientifico">Estudios Científicos</string>
+    <string name="lbl_Inventor">Paracaídas</string>
+
+    <!-- CARACTERÍSTICAS DEL HOMBRE DE VITRÚVIO -->
+    <string name="c1_Vit">Pintada cerca de 1490</string>
+    <string name="c2_Vit">Hecha con pluma y tinta sobre papel</string>
+    <string name="c3_Vit">Período del renacimiento</string>
+    <string name="c4_Vit">Gallerie dell\'Accademia, Venecia, Italia</string>
+
+    <!-- CARACTERÍSTICAS DE LA ESCULTURA -->
+    <string name="c1_escultura">Se afirma es la única escultura de Da Vinci</string>
+    <string name="c2_escultura">Se dice que fue esculpida en el año 1472</string>
+    <string name="c3_escultura">Atribuida tradicionalmente a Antonio Rossellino</string>
+    <string name="c4_escultura">Pertenece al museo británico V&amp;A</string>
+
+    <!-- MENSAJES DEL MENÚ DE OPCIONES -->
+    <string name="mensajeAlta">ALTA</string>
+    <string name="mensajeBaja">BAJA</string>
+    <string name="mensajeMod">MODIFICACIÓN</string>
+
+    <!-- MENÚ DE OPCIONES -->
+    <string name="action_insert">Alta</string>
+    <string name="action_delete">Baja</string>
+    <string name="action_update">Modificación</string>
+
+    <!-- OPCIONES DEL MENÚ LATERAL -->
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultura">Esculturas</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+
+    <!-- TEXTO DE LOS ESTUDIOS CIENTÍFICOS -->
+    <string name="estudiosCientificos">
+        Una de las áreas en las que Leonardo dejó una marca indeleble fue en el estudio de la anatomía humana. A través de la disección de cadáveres, Leonardo exploró los intrincados detalles del cuerpo humano, desafiando las creencias médicas de su época. Sus detallados dibujos anatómicos revelaron una comprensión sin precedentes de la estructura interna del cuerpo, desde los músculos y huesos hasta los órganos internos.
+    </string>
+
+    <!-- TEXTO DE LOS INVENTOS -->
+    <string name="inventos">
+        Sebastien Lenormand en 1783 creó el paracaídas. Pero Leonardo da Vinci lo pensó cientos de años antes, cuando hizo un esbozo de la invención con esta descripción: "Si un hombre tiene una tienda hecha de lino, cuyas aberturas han sido todas taponadas, y será doce braccias (unos 23 pies) de ancho y doce pulgadas de profundidad, podrá arrojarse desde cualquier gran altura sin sufrir daño".
+    </string>
+</resources>

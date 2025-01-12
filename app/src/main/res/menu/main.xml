@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/opAlta"
+        android:title="@string/action_insert"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opBaja"
+        android:title="@string/action_delete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opMod"
+        android:title="@string/action_update"
+        app:showAsAction="never" />
+</menu>
